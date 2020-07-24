@@ -11,5 +11,5 @@ app.listen(3333);
 /*
 git add .  para iniciar o git de um ponto
 git comit -m "chore(para expansão do código) fix(para correção) feature(novos códigos) "
-
+git remote nomequalquer "https://github.com/andreclicksul/live-git-hub.git"
 */
